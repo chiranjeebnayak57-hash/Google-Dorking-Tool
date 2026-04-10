@@ -5,10 +5,11 @@ However, we can build exactly what you're asking for: a "Smart Search" GUI tool 
 
 Here is the complete, runnable Python code to create your Smart Dorking Search Tool.
 
-Prerequisites
+**Prerequisites**
 This script uses Python's standard libraries, so you shouldn't need to pip install anything.
 
 **How This Tool Works Behind the Scenes**
+
 The GUI (Tkinter): It provides a clean, user-friendly interface. Instead of forcing you to remember the exact syntax for Google operators, it uses dropdowns and text fields to gather your intent.
 
 The Dork Compiler: When you click "Execute", the script strings together standard Google Search Operators:
