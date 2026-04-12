@@ -6,6 +6,7 @@ However, we can build exactly what you're asking for: a "Smart Search" GUI tool 
 Here is the complete, runnable Python code to create your Smart Dorking Search Tool.
 
 **Prerequisites**
+
 This script uses Python's standard libraries, so you shouldn't need to pip install anything.
 
 **How This Tool Works Behind the Scenes**
